@@ -9,7 +9,7 @@
 ###< symfony/framework-bundle ###
 
 ###> phpstorm ###
-.idea
+.idea/
 ###< phpstorm ###
 
 ###> symfony/web-server-bundle ###
